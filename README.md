@@ -6,8 +6,8 @@ A structured collection of Java laboratory practice programs developed as part o
 
 ## Student Details
 
-- **Name:** Smit Makwana
-- **Roll No:** 25IT052
+- **Name:** Dev kaneriya
+- **Roll No:** 25IT040
 - **Subject:** Object-Oriented Programming with Java (CEUE203)
 
 ---
